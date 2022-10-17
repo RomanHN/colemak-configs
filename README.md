@@ -4,4 +4,4 @@ After the initial learning phase, the most inconvenient part about using an alte
 
 ## ["Vim Shortcuts" Logseq plugin](logseq-plugin-vim-shortcuts)
 
-Replace `.logseq/settings/logseq-vim-shortcuts.json` with [my modified configuration file](./logseq-vim-shortcuts.json).
+Replace `~/.logseq/settings/logseq-vim-shortcuts.json` with [my modified configuration file](./logseq-vim-shortcuts.json).
